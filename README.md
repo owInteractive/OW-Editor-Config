@@ -17,7 +17,7 @@ If you use VSCODE as 99% of OW programmers, you download the extension [here](ht
 To download go to the project root and run
 
 ```
-wget https://raw.githubusercontent.com/owinteractive/ow-editor-config/master/.editorconfig
+curl -o .editorconfig https://raw.githubusercontent.com/owinteractive/ow-editor-config/master/.editorconfig
 ```
 
 ## I want to contribute
